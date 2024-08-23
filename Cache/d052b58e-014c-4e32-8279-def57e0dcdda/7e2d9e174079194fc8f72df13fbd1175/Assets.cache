@@ -1,0 +1,14 @@
+- !<AssetCache/5a4940d4-cff6-4e81-ad14-4a7974ff9806>
+  AssetFiles:
+    4cedc98f-19d4-4eb0-9fc6-339b5b334a56: d052b58e-014c-4e32-8279-def57e0dcdda/7e2d9e174079194fc8f72df13fbd1175/Data/dragono_orange.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/4cedc98f-19d4-4eb0-9fc6-339b5b334a56>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 7e2d9e174079194fc8f72df13fbd1175
+  FileHash: 7d0d92ae25f6e2b218c0212eedd71dd9
+  NativePackageItems:
+    []

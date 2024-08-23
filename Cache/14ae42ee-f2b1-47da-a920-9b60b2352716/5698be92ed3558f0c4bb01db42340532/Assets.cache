@@ -1,0 +1,14 @@
+- !<AssetCache/d491dfb6-327e-492b-b241-0db0bac545cd>
+  AssetFiles:
+    ddd6ec1e-711b-4c44-b57a-4744be0912a5: 14ae42ee-f2b1-47da-a920-9b60b2352716/5698be92ed3558f0c4bb01db42340532/Data/Concert Crowd Photo.jpg
+  AssetCurrentFiles:
+    ddd6ec1e-711b-4c44-b57a-4744be0912a5: 14ae42ee-f2b1-47da-a920-9b60b2352716/5698be92ed3558f0c4bb01db42340532/Data/Performance/Medium/Concert Crowd Photo.pvr
+  Assets:
+    - !<FileTexture/ddd6ec1e-711b-4c44-b57a-4744be0912a5>
+      PackagePath: ""
+      Width: 2048
+      Height: 1365
+  SourceHash: 5698be92ed3558f0c4bb01db42340532
+  FileHash: b5f016e211c4153024c02d789705a007
+  NativePackageItems:
+    []

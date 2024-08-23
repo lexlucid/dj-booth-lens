@@ -1,0 +1,14 @@
+- !<AssetCache/f858d988-1ab7-478c-87ce-a49c2ef0286d>
+  AssetFiles:
+    e8fa63e6-4310-474b-9678-2f2178dced74: dbe2941e-0ee8-4622-9953-9cad34aa0080/911e4e3fce965865bddedf583b6f0859/Data/dragono_grey.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/e8fa63e6-4310-474b-9678-2f2178dced74>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 911e4e3fce965865bddedf583b6f0859
+  FileHash: 07c7f6b2c8ae3964dc64e282eb905541
+  NativePackageItems:
+    []

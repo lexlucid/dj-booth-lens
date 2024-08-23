@@ -1,0 +1,14 @@
+- !<AssetCache/4ef87f56-7810-4668-ab28-4fe412ffd4b4>
+  AssetFiles:
+    9649904d-ed85-4872-bd2d-6fbea7a0925f: 4b5439f4-661e-4eb5-9305-bfc6af9d69d2/fa178de891634908bfc50e77d310e73a/Data/dragono_pink.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/9649904d-ed85-4872-bd2d-6fbea7a0925f>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: fa178de891634908bfc50e77d310e73a
+  FileHash: acab9f5d1e6b5a49335f4dd9e22d2cb7
+  NativePackageItems:
+    []

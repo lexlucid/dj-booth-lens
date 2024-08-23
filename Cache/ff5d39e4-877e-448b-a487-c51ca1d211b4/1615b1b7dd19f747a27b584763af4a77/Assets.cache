@@ -1,0 +1,14 @@
+- !<AssetCache/27a13a43-0a31-402a-b0d1-2bfa02b99251>
+  AssetFiles:
+    b099a669-7d55-4ead-aff1-1eff5af3b072: ff5d39e4-877e-448b-a487-c51ca1d211b4/1615b1b7dd19f747a27b584763af4a77/Data/dragono_yellow.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/b099a669-7d55-4ead-aff1-1eff5af3b072>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 1615b1b7dd19f747a27b584763af4a77
+  FileHash: 916492ab6d760758086c46055a3f0eb0
+  NativePackageItems:
+    []

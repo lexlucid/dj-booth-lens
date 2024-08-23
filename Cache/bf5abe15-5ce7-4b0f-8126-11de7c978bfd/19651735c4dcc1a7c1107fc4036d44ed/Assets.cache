@@ -1,0 +1,14 @@
+- !<AssetCache/d8ad5ed1-8f11-40f1-95ed-b5168044b6bf>
+  AssetFiles:
+    a4f249d2-d8b6-461d-9b25-33c6f3b213b2: bf5abe15-5ce7-4b0f-8126-11de7c978bfd/19651735c4dcc1a7c1107fc4036d44ed/Data/dragono_blue.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/a4f249d2-d8b6-461d-9b25-33c6f3b213b2>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 19651735c4dcc1a7c1107fc4036d44ed
+  FileHash: 87d9ab45cc356690d0b2ecbc6e5ed1fa
+  NativePackageItems:
+    []

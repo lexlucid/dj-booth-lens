@@ -1,0 +1,526 @@
+- !<AssetImportMetadata/11c1a69d-7e58-43b7-b98c-11ead618c263>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 4e417a00-8718-4b47-b20f-5bac86e255bc
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 4e417a00-8718-4b47-b20f-5bac86e255bc
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 0ea2fa10-eb19-4fa7-b4d6-dd85c38eef37
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/7fd44fe7-fb5c-4638-9892-6f6e08d8524f>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/00a27d28-4fd9-4a16-b8e0-2c3a71e7b1dc>
+  PrefabRemaps:
+    []
+  Name: dragono_yellow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 19.825695, y: 0.670391, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3f20ccb3-ea1c-48f8-8d7b-6ddeee3fa239
+- !<SceneObject/01805915-b50c-4fd6-b8a2-0c04bfac16fc>
+  PrefabRemaps:
+    []
+  Name: 3D Headphones__PLACE_TO_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ce194230-3e11-4ea6-99ce-cc22fcf9ffcd
+    - !<own> 1bf37257-3a6e-4507-92e1-6e20d6c8a516
+    - !<own> ff49480e-8cbf-4926-8269-f679faa5c2d9
+    - !<own> 51648e94-6bde-4266-a113-1e1305c87bd3
+    - !<own> 4f387802-bd4c-4bef-9d61-60928631bd66
+    - !<own> 85bf29c2-6304-46f6-b17b-f31eca931bc0
+    - !<own> 5b807e81-80d4-43d6-ace8-83e93a574972
+    - !<own> 00a27d28-4fd9-4a16-b8e0-2c3a71e7b1dc
+  Components:
+    []
+- !<ObjectPrefabAssetData/0ea2fa10-eb19-4fa7-b4d6-dd85c38eef37>
+  SourceRemaps:
+    - 0d30996a-a322-43ce-8062-de43f7aced33: 00a27d28-4fd9-4a16-b8e0-2c3a71e7b1dc
+    - 1bbb4158-8cdb-48d4-b2b7-def8c54fd521: 4f387802-bd4c-4bef-9d61-60928631bd66
+    - 32934134-b5be-42d6-ac6c-e687b6ca8066: 70e1f9e9-7582-436d-b74a-0c3d35edb98d
+    - 409a07ec-0b74-44e5-b5cb-dc9b576c9215: ff49480e-8cbf-4926-8269-f679faa5c2d9
+    - 518ca4eb-8060-4ef2-83ca-5d739e137f71: 51648e94-6bde-4266-a113-1e1305c87bd3
+    - 5c78d7b5-a484-493c-b7bd-84fb4b08fdaf: 1bf37257-3a6e-4507-92e1-6e20d6c8a516
+    - 80dd72d5-463f-45d9-9803-ae1c4bdbbe4e: ce194230-3e11-4ea6-99ce-cc22fcf9ffcd
+    - 8d579ddb-0d79-4e01-9267-277a9e97287f: bd9f6ba7-25d1-4f38-8df4-4bbc47bd054d
+    - 9f6de607-40fd-4040-831b-e6aae39b919c: 786fd1ac-b062-466b-8b2e-0ab455ae2734
+    - a6af4b1a-e8c1-489a-a089-173571760b88: 01805915-b50c-4fd6-b8a2-0c04bfac16fc
+    - acd927ec-99b6-4e3c-8563-d82266553790: 85bf29c2-6304-46f6-b17b-f31eca931bc0
+    - bb80405c-ee73-4d5f-a5e9-70277c61ac91: 81c5959f-0e1c-47eb-b6bd-8d5550bb64ba
+    - cbaad55c-2316-4d3d-8dad-77253f276e45: 5b807e81-80d4-43d6-ace8-83e93a574972
+    - d4fc78d0-d58e-47c0-9d5c-6b4314a14582: 72edf212-2deb-4b4d-b2d2-e11c40b446ea
+    - d602c6a3-5607-4384-a471-a8043100fee1: bf88db24-dd0d-487c-81d7-2ad3898597f7
+    - e76af3ac-3f6c-4288-ab51-aa22907aed2f: 3f20ccb3-ea1c-48f8-8d7b-6ddeee3fa239
+    - fcc7fced-63c6-4231-8e43-2721ccf22d5a: ef8a311b-3f85-484b-8b34-86227242ada1
+  SourceState: !<own> b72477e5-7e99-49e3-a951-3673348353ef
+- !<SceneObject/1bf37257-3a6e-4507-92e1-6e20d6c8a516>
+  PrefabRemaps:
+    []
+  Name: beats_maroon
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -19.519438, y: 9.599307, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 72edf212-2deb-4b4d-b2d2-e11c40b446ea
+- !<RenderMeshVisual/3f20ccb3-ea1c-48f8-8d7b-6ddeee3fa239>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 07a928c5-65c1-4a43-a5bb-b6773c12f92c
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/4f387802-bd4c-4bef-9d61-60928631bd66>
+  PrefabRemaps:
+    []
+  Name: dragono_grey
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 19.442165, y: 13.004255, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 786fd1ac-b062-466b-8b2e-0ab455ae2734
+- !<SceneObject/51648e94-6bde-4266-a113-1e1305c87bd3>
+  PrefabRemaps:
+    []
+  Name: dragono_green
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -6.686415, y: 0.670391, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 81c5959f-0e1c-47eb-b6bd-8d5550bb64ba
+- !<SceneObject/5b807e81-80d4-43d6-ace8-83e93a574972>
+  PrefabRemaps:
+    []
+  Name: dragono_pink
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 6.396681, y: 13.004255, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 70e1f9e9-7582-436d-b74a-0c3d35edb98d
+- !<RenderMeshVisual/70e1f9e9-7582-436d-b74a-0c3d35edb98d>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f2d840c9-7652-4689-b379-6ef5948419c8
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<RenderMeshVisual/72edf212-2deb-4b4d-b2d2-e11c40b446ea>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e9e40917-af45-4c72-a980-562f36f8099a
+  Mesh: !<reference> ef0e41db-db73-4e77-a8ac-6c4d65d7a7ef
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<RenderMeshVisual/786fd1ac-b062-466b-8b2e-0ab455ae2734>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 49ed6ad5-6003-45ab-a4cd-bec119432ada
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<RenderMeshVisual/81c5959f-0e1c-47eb-b6bd-8d5550bb64ba>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 48e6004a-e671-4a74-909d-2da3ab991f14
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/85bf29c2-6304-46f6-b17b-f31eca931bc0>
+  PrefabRemaps:
+    []
+  Name: dragono_orange
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 6.371284, y: 0.670391, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bf88db24-dd0d-487c-81d7-2ad3898597f7
+- !<ObjectPrefab/b72477e5-7e99-49e3-a951-3673348353ef>
+  PackagePath: 3D Headphones__PLACE_TO_OBJECTS_PANEL
+  objects:
+    - !<own> 01805915-b50c-4fd6-b8a2-0c04bfac16fc
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/bd9f6ba7-25d1-4f38-8df4-4bbc47bd054d>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a5e246f1-5c1a-4fb0-988c-eceb2ce7a2d5
+  Mesh: !<reference> ef0e41db-db73-4e77-a8ac-6c4d65d7a7ef
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<RenderMeshVisual/bf88db24-dd0d-487c-81d7-2ad3898597f7>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0b38ba89-78a1-466e-9deb-68020b7bf8d8
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/ce194230-3e11-4ea6-99ce-cc22fcf9ffcd>
+  PrefabRemaps:
+    []
+  Name: beats_black
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -19.609108, y: -2.734557, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bd9f6ba7-25d1-4f38-8df4-4bbc47bd054d
+- !<RenderMeshVisual/ef8a311b-3f85-484b-8b34-86227242ada1>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 26f77b85-9aa7-4700-9f17-e264f746c32b
+  Mesh: !<reference> 7731a180-e36f-4407-8433-c743f464397a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings/00000000-0000-0000-0000-000000000000>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/ff49480e-8cbf-4926-8269-f679faa5c2d9>
+  PrefabRemaps:
+    []
+  Name: dragono_blue
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -6.137512, y: 13.004255, z: 0.076302}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ef8a311b-3f85-484b-8b34-86227242ada1

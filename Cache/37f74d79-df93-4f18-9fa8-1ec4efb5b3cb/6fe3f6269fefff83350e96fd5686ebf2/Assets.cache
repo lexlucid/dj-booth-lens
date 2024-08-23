@@ -1,0 +1,14 @@
+- !<AssetCache/8dab3e57-3103-41c5-91da-edc18f7d8823>
+  AssetFiles:
+    a18f25f3-61a4-4a82-9111-fa4d14c9135f: 37f74d79-df93-4f18-9fa8-1ec4efb5b3cb/6fe3f6269fefff83350e96fd5686ebf2/Data/beats_normalMap.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/a18f25f3-61a4-4a82-9111-fa4d14c9135f>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 6fe3f6269fefff83350e96fd5686ebf2
+  FileHash: 24cd66069636f6044931d31b55d1e96f
+  NativePackageItems:
+    []

@@ -1,0 +1,14 @@
+- !<AssetCache/00da8a6c-6224-4a6e-8a48-a3c2bd0e8bdd>
+  AssetFiles:
+    37484c56-6f7e-4083-ac39-3715fe65f8a2: 261ef331-e355-4985-a2fc-5ae25f5630dc/221072683f2bf280f813e784e91e2c19/Data/dragono_green.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/37484c56-6f7e-4083-ac39-3715fe65f8a2>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 221072683f2bf280f813e784e91e2c19
+  FileHash: f360d12c0746637ac836f39df8f6ae96
+  NativePackageItems:
+    []

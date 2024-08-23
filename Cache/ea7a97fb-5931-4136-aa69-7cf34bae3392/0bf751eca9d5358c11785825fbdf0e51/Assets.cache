@@ -1,0 +1,14 @@
+- !<AssetCache/fd8e2f65-f39d-45c9-8f57-9b2ace9fee45>
+  AssetFiles:
+    4b7fa505-f6de-4bf7-ba37-a4537d424b7f: ea7a97fb-5931-4136-aa69-7cf34bae3392/0bf751eca9d5358c11785825fbdf0e51/Data/beats_black.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/4b7fa505-f6de-4bf7-ba37-a4537d424b7f>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 0bf751eca9d5358c11785825fbdf0e51
+  FileHash: 0d7c054c0d053148241d08bd9afedadd
+  NativePackageItems:
+    []

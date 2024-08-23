@@ -1,0 +1,12 @@
+- !<AssetCache/7b86c545-de08-4248-83c0-d372c9ef345d>
+  AssetFiles:
+    ef0e41db-db73-4e77-a8ac-6c4d65d7a7ef: 81b9baa1-e989-4cd9-bf8c-784dbc0719cb/0727d21550564ff6ad782cbb83ed5f4a/Data/baseMesh.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ef0e41db-db73-4e77-a8ac-6c4d65d7a7ef>
+      PackagePath: ""
+  SourceHash: 0727d21550564ff6ad782cbb83ed5f4a
+  FileHash: e17ca72d624caaa2bbe99fdebca7a768
+  NativePackageItems:
+    []

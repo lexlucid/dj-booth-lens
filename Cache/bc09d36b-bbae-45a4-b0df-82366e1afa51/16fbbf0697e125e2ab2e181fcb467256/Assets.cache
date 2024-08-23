@@ -1,0 +1,14 @@
+- !<AssetCache/e1fe5659-44ed-40c0-9cae-a76f49a8b0e6>
+  AssetFiles:
+    cbeb2d11-784a-4d64-a6c7-a7652c48dcc2: bc09d36b-bbae-45a4-b0df-82366e1afa51/16fbbf0697e125e2ab2e181fcb467256/Data/beats_maroon.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/cbeb2d11-784a-4d64-a6c7-a7652c48dcc2>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 16fbbf0697e125e2ab2e181fcb467256
+  FileHash: 8f4e89a346149ccff44e5af9da10be01
+  NativePackageItems:
+    []

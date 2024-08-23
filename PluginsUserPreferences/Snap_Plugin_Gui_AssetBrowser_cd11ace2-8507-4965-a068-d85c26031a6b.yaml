@@ -1,0 +1,64 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 58
+    values:
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/.hidden
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/.hidden/beats_black.ss_graph
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Materials
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Materials/beats_black.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Materials/beats_maroon.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Meshes
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Meshes/beats_master
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Meshes/beats_master/Meshes
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Meshes/beats_master/Meshes/baseMesh.mesh
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Textures
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Textures/beats_black.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Textures/beats_maroon.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Textures/beats_normalMap.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Beats Master/Textures/beats_parametersMap.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_blue.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_green.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_grey.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_orange.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_pink.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Materials/dragono_yellow.mat
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Meshes
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Meshes/dragono
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Meshes/dragono/Meshes
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Meshes/dragono/Meshes/baseMesh.mesh
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_blue.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_green.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_grey.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_normalMap.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_orange.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_parametersMap.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_pink.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_yellow.jpg
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones__PLACE_TO_OBJECTS_PANEL.prefab
+      - Background Segmentation.segmentationTexture
+      - Concert Crowd Photo.jpg
+      - Head.mesh
+      - Headphones.fbx
+      - Headphones.fbx/.hidden
+      - Headphones.fbx/.hidden/Material_0
+      - Headphones.fbx/.hidden/white
+      - Headphones.fbx/Materials
+      - Headphones.fbx/Materials/Material_0
+      - Headphones.fbx/Meshes
+      - Headphones.fbx/Meshes/Mesh_0
+      - Headphones.fbx/Textures
+      - Headphones.fbx/Textures/Image_0
+      - Headphones.fbx/retro_neon_dj_headpho_0822175209_refine
+      - Image.mat
+      - Image.png
+      - Occluder.mat
+      - flat.ss_graph
+      - occluder.ss_graph
+      - retro_neon_dj_headpho_0822175209_refine.fbm
+  options: 4

@@ -1,0 +1,14 @@
+- !<AssetCache/0ca0f14f-c9b4-49c5-8c61-cc55250ecb59>
+  AssetFiles:
+    99b9291c-0152-4352-903f-be79059044c4: 8d964761-73da-4901-a15a-f5f8aa44b68b/0dee709fc117ba6778ea69a9320fcb03/Data/beats_parametersMap.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/99b9291c-0152-4352-903f-be79059044c4>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 0dee709fc117ba6778ea69a9320fcb03
+  FileHash: 95af050ea431595384d8b942f389271f
+  NativePackageItems:
+    []

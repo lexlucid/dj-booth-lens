@@ -1,0 +1,14 @@
+- !<AssetCache/7337dafb-b157-41d0-a048-809637be74d1>
+  AssetFiles:
+    e7aee41c-8d6d-4996-8c79-447a621360a0: 6777f9bf-ef5a-4c8e-a7e0-3c4e9cc131bb/2ed443b297d77c8ae1c3a549d695f0da/Data/dragono_normalMap.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/e7aee41c-8d6d-4996-8c79-447a621360a0>
+      PackagePath: ""
+      Width: 2048
+      Height: 2048
+  SourceHash: 2ed443b297d77c8ae1c3a549d695f0da
+  FileHash: f56b7b0215a3a0c513dd804ae5c5fadf
+  NativePackageItems:
+    []
