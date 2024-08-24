@@ -1,8 +1,9 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 58
+    size: 73
     values:
+      - 3D_Headphones__PLACE_TO_OBJECTS_PANEL
       - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/.hidden
       - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/.hidden/beats_black.ss_graph
       - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack
@@ -42,7 +43,20 @@ CollapsedEntities:
       - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones Pack/Dragono/Textures/dragono_yellow.jpg
       - 3D_Headphones__PLACE_TO_OBJECTS_PANEL/3D Headphones__PLACE_TO_OBJECTS_PANEL.prefab
       - Background Segmentation.segmentationTexture
+      - Behavior
+      - Behavior/Behavior.js
+      - Behavior/Behavior.prefab
       - Concert Crowd Photo.jpg
+      - DJ Booth.gltf
+      - DJ Booth.gltf/.hidden
+      - DJ Booth.gltf/.hidden/dj5000
+      - DJ Booth.gltf/Materials
+      - DJ Booth.gltf/Materials/dj5000
+      - DJ Booth.gltf/Meshes
+      - DJ Booth.gltf/Meshes/dj5000_dj5000_0
+      - DJ Booth.gltf/Textures
+      - DJ Booth.gltf/Textures/dj5000_baseColor
+      - DJ Booth.gltf/scene
       - Head.mesh
       - Headphones.fbx
       - Headphones.fbx/.hidden
@@ -54,11 +68,12 @@ CollapsedEntities:
       - Headphones.fbx/Meshes/Mesh_0
       - Headphones.fbx/Textures
       - Headphones.fbx/Textures/Image_0
-      - Headphones.fbx/retro_neon_dj_headpho_0822175209_refine
+      - House DJ.wav
       - Image.mat
       - Image.png
       - Occluder.mat
       - flat.ss_graph
       - occluder.ss_graph
       - retro_neon_dj_headpho_0822175209_refine.fbm
+      - textures
   options: 4

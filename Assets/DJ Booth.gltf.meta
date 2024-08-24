@@ -1,0 +1,221 @@
+- !<AssetImportMetadata/8de51df0-1585-4930-bfdc-262c00e861e1>
+  ImportedAssetIds:
+    .hidden/dj5000: !<reference> 3dce84e8-f069-4ccc-8a3b-6733fe53a7fd
+    344f566fae3856fd: !<reference> a1ff0475-bd81-4dad-ab92-a3d6c19b56c2
+    4a3e924fad0e2f27: !<reference> c3e75893-fbe8-4f00-84c7-c4939a65f3a1
+    5456cd091e7655cc: !<reference> 68928f7b-3ab8-4350-80a3-88926b332286
+    66780cf3a4dcb2b8: !<reference> e18a174c-f536-49a8-abaf-5023d0853bd1
+    89f1d5eec8c69062: !<reference> f50b8e43-925b-4e3b-b960-996dd64f128e
+    8cc004ff93d4b7dd: !<reference> 883df85e-7f26-49a9-a1cd-e4d9bc566e26
+    Materials/dj5000: !<reference> a5c49a90-ef47-4f8d-b9e4-5e31b4d14c3b
+    Materials/dj5000|dj5000|GraphPassInfo: !<reference> 211fa4f2-1f70-4bfb-bd00-ee90333bec56
+    Meshes/dj5000_dj5000_0: !<reference> 917693a5-e632-4c68-9b65-8465416f4055
+    Scene: !<reference> 052c8f52-5175-4cde-8660-47bca58cf4b7
+    Textures/dj5000_baseColor: !<reference> 13742141-fb7c-43ff-b55d-9ea547f0d113
+    ae95883a8e2e57c1: !<reference> cc619bc0-ce0a-4cce-b5b5-6e78381bbea6
+    f282659b3dec6ace: !<reference> 2ee99764-21f4-4254-b7bf-58a9ce8c9439
+    faea20321e029765: !<reference> 7a381dd7-72e2-4d9e-85cb-d5a733ad37f5
+    ff7936aad4ab157c: !<reference> 4686d2f1-497e-4ede-b0ee-f84c29cfa7b3
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 052c8f52-5175-4cde-8660-47bca58cf4b7
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> a78b98d9-47c3-4b11-a3f3-c76d9546f5ea
+  DependentFiles:
+    - scene.bin
+    - textures/dj5000_baseColor.png
+  ImporterSettings: !<GltfImporterSettings/43dff583-b348-430c-a1bb-57ceebe82dc4>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategory
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings/5ce763b2-c45d-435d-b7e9-97997e64b231>
+    Presets:
+      None Compression: !<SingleCompressionSettings/aa365303-d66b-4847-aea0-31d1ea9f6551>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/cdb41e4e-9b3c-4cce-9520-b45d725070fe>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/aa53c21c-d335-472c-83cb-3e5ed373d15e>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<RenderMeshVisual/344e27ce-c794-49ee-b732-1ed76e483a41>
+  PrefabRemaps:
+    []
+  Name: dj5000_dj5000_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a5c49a90-ef47-4f8d-b9e4-5e31b4d14c3b
+  Mesh: !<reference> 917693a5-e632-4c68-9b65-8465416f4055
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/511ca1a3-7a0f-4bdb-8803-7fb1d37c2a9d>
+  PrefabRemaps:
+    []
+  Name: dj5000
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.118801, y: -55.957783, z: 29.121937}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b214e1b0-5011-4e9c-80a7-faf09d50f502
+  Components:
+    []
+- !<SceneObject/538a86e3-c7b2-4017-baa6-2baf1e0927a1>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 511ca1a3-7a0f-4bdb-8803-7fb1d37c2a9d
+  Components:
+    []
+- !<SceneObject/675c03a7-bc74-47b1-b7d7-34484eda607b>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> aa939a4d-b1e4-48f5-a066-c4e18eaf8328
+  Components:
+    []
+- !<ObjectPrefab/7298acdd-ad40-456d-80f8-f40db03848af>
+  PackagePath: ""
+  objects:
+    - !<own> c76068ee-1ea7-4516-8b29-187188ad4de4
+  LazyLoading: false
+  RetainAssets: true
+- !<AnimationPlayer/92dd8bf3-e14c-4a15-a142-5fc1869b1270>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<ObjectPrefabAssetData/a78b98d9-47c3-4b11-a3f3-c76d9546f5ea>
+  SourceRemaps:
+    - 2ee99764-21f4-4254-b7bf-58a9ce8c9439: 511ca1a3-7a0f-4bdb-8803-7fb1d37c2a9d
+    - 4686d2f1-497e-4ede-b0ee-f84c29cfa7b3: 675c03a7-bc74-47b1-b7d7-34484eda607b
+    - 68928f7b-3ab8-4350-80a3-88926b332286: f71c5314-9ffe-4acb-b468-441f1eb5e6ec
+    - 7a381dd7-72e2-4d9e-85cb-d5a733ad37f5: 344e27ce-c794-49ee-b732-1ed76e483a41
+    - 883df85e-7f26-49a9-a1cd-e4d9bc566e26: 92dd8bf3-e14c-4a15-a142-5fc1869b1270
+    - a1ff0475-bd81-4dad-ab92-a3d6c19b56c2: aa939a4d-b1e4-48f5-a066-c4e18eaf8328
+    - c3e75893-fbe8-4f00-84c7-c4939a65f3a1: cc3f3b2d-cd64-490a-a355-41d747b5ca00
+    - cc619bc0-ce0a-4cce-b5b5-6e78381bbea6: 538a86e3-c7b2-4017-baa6-2baf1e0927a1
+    - e18a174c-f536-49a8-abaf-5023d0853bd1: c76068ee-1ea7-4516-8b29-187188ad4de4
+    - f50b8e43-925b-4e3b-b960-996dd64f128e: b214e1b0-5011-4e9c-80a7-faf09d50f502
+  SourceState: !<own> 7298acdd-ad40-456d-80f8-f40db03848af
+- !<SceneObject/aa939a4d-b1e4-48f5-a066-c4e18eaf8328>
+  PrefabRemaps:
+    []
+  Name: 883325d81dd842c3ad9f204707f8a938.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 538a86e3-c7b2-4017-baa6-2baf1e0927a1
+  Components:
+    []
+- !<SceneObject/b214e1b0-5011-4e9c-80a7-faf09d50f502>
+  PrefabRemaps:
+    []
+  Name: dj5000_dj5000_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 344e27ce-c794-49ee-b732-1ed76e483a41
+- !<SceneObject/c76068ee-1ea7-4516-8b29-187188ad4de4>
+  PrefabRemaps:
+    []
+  Name: scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cc3f3b2d-cd64-490a-a355-41d747b5ca00
+  Components:
+    []
+- !<SceneObject/cc3f3b2d-cd64-490a-a355-41d747b5ca00>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f71c5314-9ffe-4acb-b468-441f1eb5e6ec
+  Components:
+    []
+- !<SceneObject/f71c5314-9ffe-4acb-b468-441f1eb5e6ec>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 675c03a7-bc74-47b1-b7d7-34484eda607b
+  Components:
+    - !<own> 92dd8bf3-e14c-4a15-a142-5fc1869b1270
